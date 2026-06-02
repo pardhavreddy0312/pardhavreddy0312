@@ -1,6 +1,6 @@
-#Hi, I'm Pardhav Reddy
+# Hi, I'm Pardhav Reddy
 
-Artificial Intelligence & Data Science Undergraduate at Amrita Vishwa Vidyapeetham
+Artificial Intelligence & Data Science Undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore
 
 Focused on building intelligent systems at the intersection of AI, Cybersecurity, Robotics, and Cyber-Physical Systems.
 
