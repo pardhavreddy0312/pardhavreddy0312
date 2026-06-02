@@ -22,19 +22,19 @@ Focused on building intelligent systems at the intersection of AI, Cybersecurity
 * Research-Oriented Engineering Projects
 * Open Source Development
 
-## Selected Projects
+## Featured Projects
+
+### Cognitive Load Detection using Deep Learning
+Developed an intelligent system to analyze human cognitive workload using AI and deep learning techniques. The system aims to identify mental stress, workload levels, and attention patterns to support adaptive learning and human-centered applications.
 
 ### Secure Steganography and Cryptography Suite
-
-A cybersecurity platform integrating image steganography, RSA cryptography, digital watermarking, and modern browser-based security mechanisms.
+Designed a cybersecurity platform integrating image steganography, RSA cryptography, digital watermarking, and secure communication mechanisms.
 
 ### AI Security Research
-
-Exploring machine learning approaches for threat detection, anomaly analysis, and secure systems.
+Exploring machine learning approaches for anomaly detection, threat analysis, and intelligent security systems.
 
 ### Robotics & Intelligent Systems
-
-Developing autonomous and adaptive robotic solutions using AI and sensor-driven decision making.
+Developing autonomous systems that combine AI, sensor fusion, and intelligent decision-making.
 
 ## Technical Skills
 
