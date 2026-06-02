@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Pardhav Reddy 👋
 
-<!--
-**pardhavreddy0312/pardhavreddy0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BTech in Artificial Intelligence and Data Science
+🏫 Amrita Vishwa Vidyapeetham, Coimbatore
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Cybersecurity
+- Robotics
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- Cyber Physical Systems
+- Security Research
+
+## Projects
+- Secure Steganography and Cryptography Suite
+- AI-Based Security Systems
+- Deep Learning Projects
+- Robotics and Automation Projects
+
+## Tech Stack
+- Python
+- Java
+- C++
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+- TensorFlow (Learning)
+- PyTorch (Learning)
+
+## Goals
+- Build research-oriented AI projects
+- Contribute to open source
+- Secure top internships
+- Develop innovative AI and cybersecurity solutions
