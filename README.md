@@ -64,4 +64,4 @@ To engineer intelligent systems that solve real-world problems through the conve
 
 ## Connect
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: [www.linkedin.com/in/pardhavreddy0312]
